@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I’m a passionate data enthusiast with a keen interest in Sports and Education. My data journey began during the latter part of my bachelor’s degree in Economics at the University of Vienna. Since then, I have gained valuable experience in the EdTech and iGaming industries, continuously refining my skills and expanding my knowledge in data analytics.
 <!--
 **Kulijan/Kulijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
